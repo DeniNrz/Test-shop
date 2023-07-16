@@ -8,6 +8,10 @@
     }
     .swiperSlide {
       max-width: 300px;
+
+      @media (max-width: 500px) {
+        width: 180px;
+      }
     }
   }
 }
