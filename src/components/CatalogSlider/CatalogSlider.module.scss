@@ -1,0 +1,13 @@
+.swiperWrapper {
+  max-width: 1310px;
+  margin: 0 auto;
+
+  .swiper {
+    .swiperWrapper {
+      padding: 30px 20px;
+    }
+    .swiperSlide {
+      max-width: 300px;
+    }
+  }
+}
